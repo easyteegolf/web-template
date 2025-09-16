@@ -20,10 +20,10 @@
 
 title: Golf Course
 course: Golf Course
-booking: https://app.easyteegolf.com/
+booking: https://easyteegolf.com/
 email: admin@easyteegolf.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This is an example website using Easy Tee Golf's web service.
+  This is an example website built using Easy Tee Golf Web Services. We can build a modern, stylish website like this for your golf course. 
 # baseurl: "/"
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "//website.easyteegolf.com/" # the base hostname & protocol for your site, e.g. http://example.com
